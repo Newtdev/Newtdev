@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm Thomas Ejembi. Known in the dev world as Newtdev
+**I'm Thomas Ejembi.**
+```
+#####Known in the dev world as Newtdev
 🔭 I’m currently working on a web app using vanila JS.
-🌱 I’m currently learning React.js.
+🌱 I’m currently learning React.js.```
 
 
 
