@@ -3,22 +3,13 @@ import React, { useState, useEffect, Suspense } from "react";
 import WebApp from "../components/WebApp";
 import MobileApp from "../components/MobileApp";
 import Icons from "../components/Icons";
+import { projects } from "../utils/projects";
 
 const Projects = () => {
   const [activeTab, setActiveTab] = useState(0);
-  const [projects, setProjects] = useState([])
   const [isMobile, setIsMobile] = useState(false);
 
-  useEffect(() => {
-    (async function fetchData() {
-      const response = await fetch('projects.json')
-      const projects = await response.json()
-      setProjects(projects?.projects)
-
-    })()
-
-  }, [])
-
+  // console.log(projects)
   return (
     <Suspense fallback={<h1>Loading</h1>}>
 
