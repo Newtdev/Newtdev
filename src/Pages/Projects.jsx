@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect, Suspense } from "react";
-import WebApp from "../Components/WebApp";
-import MobileApp from "../Components/MobileApp";
+import WebApp from "../components/WebApp";
+import MobileApp from "../components/MobileApp";
 import Icons from "../components/Icons";
 
 const Projects = () => {
