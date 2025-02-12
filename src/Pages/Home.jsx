@@ -13,6 +13,7 @@ const Main = () => {
 		return () => window.removeEventListener("resize", checkMobile);
 	}, []);
 
+
 	return (
 		<main className="min-h-screen relative overflow-hidden bg-primary">
 			{/* Main Content */}
