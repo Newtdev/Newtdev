@@ -462,7 +462,7 @@ export const projects = {
 			link: "https://drive.google.com/drive/folders/188ARqYiZJDo2EwklZiVD9PqfmvW8lUrM?usp=sharing",
 			tech: ["Flutter", "Google Map"],
 			walkthrough: {
-				demo: "",
+				demo: "https://streamable.com/e/2l96du?",
 				id: "decove",
 				title: "Decove - Grocery delivery Marketplace",
 				elevatorPitch:
