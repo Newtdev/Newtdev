@@ -1,9 +1,12 @@
 import React, { useState } from "react";
 import { AiOutlineCloudDownload } from "react-icons/ai";
 import { FaEye } from "react-icons/fa6";
+import { useNavigate } from "react-router";
+import { RoutesEnum } from "./Navbar";
 
 const MobileApp = ({ mobile }) => {
   const [preload, setPreload] = useState(false);
+  const navigate = useNavigate()
 
   return (
     <>
@@ -45,6 +48,7 @@ const MobileApp = ({ mobile }) => {
           {/* Project Links */}
           <div className="flex items-center gap-4">
             <button
+              onClick={() => navigate(`/details/${project.slug}`,)}
 
               className="text-xs text-white px-2 py-2 bg-secondary/10 rounded cursor-pointer gap-x-2 flex items-center"
             >

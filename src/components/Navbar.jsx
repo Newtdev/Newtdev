@@ -11,7 +11,8 @@ export const RoutesEnum = {
   Home: '/',
   About: '/about',
   Projects: '/projects',
-  Contact: '/contact'
+  Contact: '/contact',
+  Details: '/details/:id'
 }
 
 const Links = [
