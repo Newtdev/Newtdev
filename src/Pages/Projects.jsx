@@ -8,8 +8,6 @@ import { projects } from "../utils/projects";
 const Projects = () => {
   const [activeTab, setActiveTab] = useState(0);
   const [isMobile, setIsMobile] = useState(false);
-
-  // console.log(projects)
   return (
     <Suspense fallback={<h1>Loading</h1>}>
 

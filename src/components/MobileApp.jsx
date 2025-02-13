@@ -21,7 +21,7 @@ const MobileApp = ({ mobile }) => {
             <img
               src={project.imgSrc}
               alt={`Screenshot of ${project.title}`}
-              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+              className="w-full h-full object-contain bg-primary/95 transition-transform duration-500 group-hover:scale-105"
               loading={preload ? "eager" : "lazy"}
             />
             <div className="absolute inset-0 bg-secondary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
