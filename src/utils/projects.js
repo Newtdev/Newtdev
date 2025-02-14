@@ -466,7 +466,7 @@ export const projects = {
 				id: "decove",
 				title: "Decove - Grocery delivery Marketplace",
 				elevatorPitch:
-					"Led development of a Flutter-based marketplace app connecting users with local services through map integration and secure payments",
+					"Lead development of a Flutter-based marketplace app connecting users with local services through map integration and secure payments",
 				sections: [
 					{
 						title: "The Challenge",
