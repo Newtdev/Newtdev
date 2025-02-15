@@ -1,6 +1,8 @@
 import React from 'react'
 
 export default function Home() {
+
+
     return (
         <div className="flex flex-col items-center justify-center min-h-screen text-center px-4 sm:px-6 lg:px-8 relative z-10">
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-4 md:mb-6 animate-fade-in-up">
