@@ -1,4 +1,5 @@
 import React from 'react'
+import Resume from '../assets/pdfs/THOMAS EJEMBI RESUME.pdf'
 
 export default function Home() {
 
@@ -20,7 +21,7 @@ export default function Home() {
             <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 animate-fade-in-up delay-300">
                 <a
                     download
-                    href={'assets/pdfs/THOMAS EJEMBI RESUME.pdf'}
+                    href={Resume}
                     className="primary_btn px-6 py-3 sm:px-8 sm:py-4 rounded text-[#CCD6F6] border-2 border-secondary-light hover:bg-secondary-light/20 transition-all duration-500 ease-[cubic-bezier(0.4,0,0.2,1)] hover:scale-105 focus:outline-none focus:ring-2 focus:ring-secondary-light focus:ring-offset-4 focus:ring-offset-primary animate-pulse "
                     aria-label="Contact via email (opens new window)"
                 >

@@ -82,6 +82,7 @@ export const projects = {
 			],
 			walkthrough: {
 				demo: "",
+				link: "https://play.google.com/store/apps/details?id=com.dryveuser",
 				id: "dryve-user-app",
 				title: "Dryve User App",
 				elevatorPitch:
@@ -277,6 +278,7 @@ export const projects = {
 			],
 			walkthrough: {
 				demo: "",
+				link: "https://play.google.com/store/apps/details?id=com.dryve.driver",
 				id: "dryve-driver-app",
 				title: "Dryve User App",
 				elevatorPitch:
@@ -463,6 +465,7 @@ export const projects = {
 			tech: ["Flutter", "Google Map"],
 			walkthrough: {
 				demo: "https://streamable.com/e/2l96du?",
+				link: "https://drive.google.com/drive/folders/188ARqYiZJDo2EwklZiVD9PqfmvW8lUrM?usp=sharing",
 				id: "decove",
 				title: "Decove - Grocery delivery Marketplace",
 				elevatorPitch:

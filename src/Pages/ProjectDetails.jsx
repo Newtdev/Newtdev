@@ -250,7 +250,7 @@ const ProjectWalkthrough = () => {
 
 
 				{/* Project Links */}
-				<div className="mt-20 border-t border-[#233554] pt-12">
+					{project.link && <div className="mt-20 border-t border-[#233554] pt-12">
 					<div className="flex flex-col sm:flex-row gap-6 justify-center">
 						<a
 							href="#live-demo"
@@ -261,7 +261,7 @@ const ProjectWalkthrough = () => {
 						</a>
 
 					</div>
-				</div>
+					</div>}
 			</div>
 		</div>
 		</Suspense>
