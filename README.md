@@ -1,61 +1,75 @@
+# 👋 Hi, I'm Thomas Ejembi
 
-# THOMAS EJEMBI
-###### Abuja FCT, Nigeria
-###### 2348171315756
-###### [www.ejembithomas61@gmail.com]
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://newtdev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-ejembi-690843101)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@newtdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejembithomas61@gmail.com)
 
-# Summary:
-I am a solution-driven front-end and mobile app developer with over 2.5 years of experience in building functional, scalable, and beautiful web and mobile applications. 
-As the lead front-end developer at Spacepen, I developed the company's major revenue generator - a payroll app called Aimienpay using React, Redux and Typescript, and Bootstrap. 
+</div>
 
-Additionally, I have experience working with React Native for mobile apps and have built the front-end of various web and mobile applications across multiple APIs, third-party integrations, and databases. With my skills in project management, team leadership, and user-centered design, I have successfully trained and mentored front-end interns, collaborated with cross-functional teams, and delivered projects that met the highest standards for web development, user experience, best practices, and speed for desktop and mobile app users.
+## 🚀 About Me
 
+I'm a solution-driven Frontend and Mobile App Developer with over 4 years of experience building high-performance, cross-platform applications. Currently working on innovative digital payment platforms and e-hailing solutions, I specialize in creating intuitive, scalable, and beautiful web and mobile applications. I also share my technical knowledge and experiences through articles on [Hashnode](https://hashnode.com/@newtdev), where I write about frontend development, mobile app development, and software engineering best practices.
 
-# Core skills
-<p align="left"> 
- 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <br/>
- <br/>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p>
+### 🔭 Current Work
+- Leading mobile development at **Blink**, creating secure contactless payment platforms
+- Developing "Dryve", an innovative e-hailing platform at **Opendesk Tech**
+- Lead development team for **Sky ventures**
+- Writing technical articles and tutorials on Hashnode
 
-## Additional tools
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 🏆 Key Achievements
+- Architected complete mobile application ecosystems using React Native
+- Implemented secure payment systems with NFC and biometric authentication
+- Optimized application performance, reducing load times by 45%
+- Built high-rated iOS and Android apps for crypto investment and productivity management
 
+## 💻 Tech Stack
 
-## Soft skills
-- Critical thinking and problem solving skills
-- Effective Time Management Skills 
-- Teamwork
-- Adaptability
-- Communication skills
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=newtdev&show_icons=true&locale=en&layout=compact" alt="newtdev" /></p>
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadow&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newtdev&show_icons=true&locale=en" alt="newtdev" /></p>
+### State Management & APIs
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newtdev&show_icons=true&locale=en&layout=compact" alt="newtdev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=newtdev&show_icons=true&locale=en" alt="newtdev" />
+</div>
 
+## 🌟 Featured Projects
+- **Blink Pay & Merchant**: Contactless payment platforms with NFC integration
+- **Dryve**: E-hailing platform with real-time tracking
+- **Rencoin**: Crypto investment platform
+- **Durham Public Schools Portal**: Document management system
 
-
-<!--
-**Newtdev/Newtdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📫 Let's Connect
+- 📧 Email: ejembithomas61@gmail.com
+- 🌐 Portfolio: [newtdev.vercel.app](https://newtdev.vercel.app)
+- 💼 LinkedIn: [Thomas Ejembi](https://linkedin.com/in/thomas-ejembi-690843101)
+- ✍️ Hashnode: [@newtdev](https://hashnode.com/@newtdev)
