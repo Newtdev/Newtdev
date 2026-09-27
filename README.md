@@ -11,19 +11,23 @@
 
 ## 🚀 About Me
 
-I'm a solution-driven Frontend and Mobile App Developer with over 4 years of experience building high-performance, cross-platform applications. Currently working on innovative digital payment platforms and e-hailing solutions, I specialize in creating intuitive, scalable, and beautiful web and mobile applications. I also share my technical knowledge and experiences through articles on [Hashnode](https://hashnode.com/@newtdev), where I write about frontend development, mobile app development, and software engineering best practices.
+**Platform Mobile Engineer (iOS, Android)**
+
+Mobile Developer with 5+ years of experience building solutions with React Native, Kotlin, Java, and Expo across the financial, transportation, medical, fashion, and travel industries. Proven track record in developing robust mobile architecture, custom native modules, payment integrations, and secure DevOps pipelines.
+
+I write up what I learn on [Hashnode](https://hashnode.com/@newtdev).
 
 ### 🔭 Current Work
-- Leading mobile development at **Blink**, creating secure contactless payment platforms
-- Developing "Dryve", an innovative e-hailing platform at **Opendesk Tech**
-- Lead development team for **Sky ventures**
-- Writing technical articles and tutorials on Hashnode
+- **Deputy Lead / Senior Mobile Engineer** at **Sparkle Nigeria (Bank)**, Lagos — March 2025 to present
+- Maintaining **[blynk-deferlink](https://github.com/Newtdev/blynk-deferlink)**, the deferred deep-linking engine below, now open source
+- Previously Lead Mobile Engineer (Contract) at **Wish To Wear**, UK — July 2025 to February 2026
 
 ### 🏆 Key Achievements
-- Architected complete mobile application ecosystems using React Native
-- Implemented secure payment systems with NFC and biometric authentication
-- Optimized application performance, reducing load times by 45%
-- Built high-rated iOS and Android apps for crypto investment and productivity management
+- Designed and open-sourced an in-house deferred deep-linking engine ([blynk-deferlink](https://github.com/Newtdev/blynk-deferlink)) to replace deprecated Firebase Dynamic Links (FDL), utilizing Android Install Referrer, iOS clipboard handoff (UIPasteControl), and probabilistic fingerprinting for seamless attribution
+- Maintained a 99.99% crash-free session rate across a growing production user base by implementing robust error boundaries, private payment encryption, and native exception handling architectures
+- Engineered custom native modules in Swift and Kotlin to wrap SmileID KYC SDKs, successfully bypassing JavaScript bridge bottlenecks to significantly reduce identity verification latency
+- Architected core transaction-critical banking engines, including a high-performance BulkPayment system optimized to execute complex, multi-beneficiary edge cases asynchronously without blocking the UI main thread
+- Automated enterprise CI/CD deployment pipelines by integrating Snyk vulnerability scanning, SonarQube static code analysis, and automated unit testing, reducing manual release overhead by over 60%
 
 ## 💻 Tech Stack
 
