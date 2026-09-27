@@ -15,7 +15,7 @@
 
 Mobile Developer with 5+ years of experience building solutions with React Native, Kotlin, Java, and Expo across the financial, transportation, medical, fashion, and travel industries. Proven track record in developing robust mobile architecture, custom native modules, payment integrations, and secure DevOps pipelines.
 
-I write up what I learn on [Hashnode](https://hashnode.com/@newtdev).
+I write up what I learn on [Hashnode](https://hashnode.com/@Newtdev).
 
 ### 🔭 Current Work
 - **Deputy Lead / Senior Mobile Engineer** at **Sparkle Nigeria (Bank)**, Lagos — March 2025 to present
@@ -77,4 +77,4 @@ I write up what I learn on [Hashnode](https://hashnode.com/@newtdev).
 - 📧 Email: ejembithomas61@gmail.com
 - 🌐 Portfolio: [newtdev.vercel.app](https://newtdev.vercel.app)
 - 💼 LinkedIn: [Thomas Ejembi](https://linkedin.com/in/thomas-ejembi-690843101)
-- ✍️ Hashnode: [@newtdev](https://hashnode.com/@newtdev)
+- ✍️ Hashnode: [@newtdev](https://hashnode.com/@Newtdev)
