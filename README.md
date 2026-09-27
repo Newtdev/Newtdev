@@ -63,6 +63,7 @@ I'm a solution-driven Frontend and Mobile App Developer with over 4 years of exp
 </div>
 
 ## 🌟 Featured Projects
+- **[blynk-deferlink](https://github.com/Newtdev/blynk-deferlink)**: Self-hosted deferred deep linking and referral attribution for React Native — an open-source replacement for the deferred half of Firebase Dynamic Links. MIT licensed, four packages, interchangeable PHP and Node backends, running on production referral traffic at a licensed Nigerian microfinance bank.
 - **Blink Pay & Merchant**: Contactless payment platforms with NFC integration
 - **Dryve**: E-hailing platform with real-time tracking
 - **Rencoin**: Crypto investment platform
