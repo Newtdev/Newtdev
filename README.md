@@ -1,18 +1,18 @@
 # Thomas Ejembi
 
-**Senior Mobile Engineer — React Native, Swift, Kotlin.** I build and ship
-production mobile software for regulated financial services: KYC and identity
-verification, card issuance, payments, and the native modules and release
-pipelines underneath them.
+I build mobile apps for banks — payments, cards, and the identity checks that
+have to pass before any of it works. Six years of it now, mostly React Native
+with Swift and Kotlin underneath. I'm also studying mobile security, because
+that's where the interesting bugs live.
 
 [Portfolio](https://newtdev.vercel.app) ·
 [LinkedIn](https://linkedin.com/in/thomas-ejembi-690843101) ·
 [Writing](https://hashnode.com/@Newtdev) ·
 [ejembithomas61@gmail.com](mailto:ejembithomas61@gmail.com)
 
-> **Open to senior / lead mobile roles — remote, worldwide.**
-> Six years building mobile products, including a UK contract lead role and a
-> current post at a licensed bank.
+> **Open to senior and lead mobile roles — remote, anywhere.**
+> I've done this from Lagos for a UK team before, and I'm doing it now for a
+> licensed bank.
 
 ---
 
