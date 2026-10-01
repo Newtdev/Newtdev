@@ -7,45 +7,38 @@ import Resume from '../assets/pdfs/THOMAS EJEMBI RESUME.pdf'
 const historys = [
   {
     id: 1,
-    title: " Sky ventures (South East Asia), June 2024 - Present",
-    titleSub: "Software Engineer Lead",
+    title: "Sparkle Nigeria (licensed bank), Lagos — March 2025 - Present",
+    titleSub: "Deputy Lead / Senior Mobile Engineer",
     description:
-      "Led and managed a cross-functional engineering team of 10 professionals, including Product Managers, Quality Assurance Engineers, DevOps specialists, and software developers. Provide strategic technical leadership by selecting and defining technology stacks for innovative projects while overseeing the development of both Web2 and Web3 projects, such as meme coins and payment platforms. Manage technical architecture for diverse blockchain and traditional web application ecosystems, conducting comprehensive code reviews to ensure code quality, performance, and adherence to best practices. Perform advanced debugging and troubleshooting of complex software issues, drive product strategy, and ensure technical roadmap alignment for emerging digital technologies. Collaborate on blockchain and traditional web development initiatives, mentor team members in cutting-edge web technologies and blockchain development, and evaluate and integrate emerging technologies across Web2 and Web3 domains. Implement scalable solutions for cryptocurrency and payment platform infrastructures while leading technical decision-making processes for innovative digital projects.",
+      "Mobile platform for a licensed microfinance bank. Wrapped the SmileID identity SDKs in custom Swift and Kotlin modules, moving KYC verification off the JavaScript bridge and cutting verification latency. Architected the BulkPayment engine so complex multi-beneficiary transactions execute asynchronously without blocking the UI thread. Hold a 99.99% crash-free session rate across a growing production user base through error boundaries, payment-payload encryption and native exception handling. Own release engineering across both stores — Play Console policy remediation, signing, staged rollout and over-the-air updates — with Snyk vulnerability scanning, SonarQube analysis and automated tests wired into CI. Designed and open-sourced blynk-deferlink, the deferred deep-linking engine that replaced Firebase Dynamic Links for the bank's referral flow.",
   },
   {
     id: 2,
-    title: "Blink (Remote) —October 2023 - Present",
-    titleSub: "Mobile Developer",
+    title: "Wish To Wear, United Kingdom (Remote) — July 2025 - February 2026",
+    titleSub: "Lead Mobile Engineer (Contract)",
     description:
-      "Independently architected and developed the entire mobile application ecosystem using React Native and React Native Elements, delivering a simple, fast, and high-performance user interface. Implemented Socket.IO for real-time communication, ensuring instant updates across both user and merchant platforms, and designed a robust push notification system for critical user actions such as card addition and payment confirmation. Enhanced security by implementing multi-factor authentication, including biometric, PIN, and pattern locks for sensitive payment screens. Bridged React Native with native functionalities, integrating advanced features such as NFC for contactless payments, biometric authentication, and custom sound notifications. Utilized React Animated to create fluid screen transitions and component animations, significantly enhancing user experience. Developed both the consumer-facing (BlinkPay) and merchant-facing (Blink Merchant) applications, gaining comprehensive insight into the payment ecosystem while ensuring strict adherence to financial industry security standards throughout the development process.",
+      "Led mobile delivery for a UK product team, remote from Lagos. Owned the React Native architecture and the release cadence across iOS and Android.",
   },
   {
     id: 3,
-    title: "Opendesk Tech (Remote) — November 2023 - July 2024",
-    titleSub: "Mobile Developer (Contract)",
+    title: "Sky Ventures (South East Asia) — June 2024 - March 2025",
+    titleSub: "Software Engineer Lead",
     description:
-      "Developed the user application using React Native and React Native Elements, implementing Redux for state management and Socket.IO for real-time interactions. Established a comprehensive component library and styling system, significantly enhancing development efficiency and code consistency. Led the planning and execution of new features, consistently meeting tight deadlines while maintaining high-quality standards. Collaborated closely with UX/UI designers to iteratively improve the application based on user feedback, resulting in enhanced user satisfaction. Fostered strong cross-functional relationships with back-end developers and designers, ensuring seamless integration and a cohesive user experience across all platforms. Optimized application performance, focusing on speed and efficiency across various mobile devices.",
+      "Led a cross-functional engineering team of 10 — product managers, QA engineers, DevOps specialists and developers. Selected and defined technology stacks, and oversaw delivery of both Web2 and Web3 projects including payment platforms. Managed technical architecture across blockchain and traditional web ecosystems, ran code reviews, drove product strategy and technical roadmap alignment, and mentored the team on web and blockchain development.",
   },
   {
     id: 4,
-    title: "Krext, US (Remote) — July 2023 - August 2024",
-    titleSub: "Software Developer",
+    title: "Blynk, formerly Blink (Remote) — October 2023 - Present",
+    titleSub: "Mobile Developer",
     description:
-      "Solely responsible for developing and maintaining Krext's employee productivity management web application using React, Redux, Material UI, and Tailwind CSS. Collaborated with the product team to design and build intuitive user interfaces with a strong focus on usability and performance. Implemented complex features such as an interactive calendar, real-time messaging, and analytics dashboards. Optimized page load time by 45% through code splitting and caching techniques. Established a component library, styling system, and automated tests to streamline development. Led the planning and execution of new feature implementations within tight timelines while working cross-functionally to continuously improve UX and UI based on user feedback. Contributed to enhancing the overall developer workflow through documentation and knowledge sharing, ensuring efficient and high-quality development processes.",
+      "Independently architected and built the entire mobile ecosystem in React Native — consumer-facing Blynk Pay and merchant-facing Blynk Merchant. Implemented Socket.IO for real-time updates across both platforms and a push notification system for critical actions such as card addition and payment confirmation. Hardened sensitive payment screens with multi-factor authentication — biometric, PIN and pattern locks. Bridged React Native to native functionality for NFC contactless payments, biometric authentication and custom sound notifications, working to financial-industry security standards throughout.",
   },
   {
     id: 5,
-    title: "Tratrust Limited, Abuja — September 2022 - February 2024",
-    titleSub: "Frontend Developer",
+    title: "Opendesk Tech (Remote) — November 2023 - July 2024",
+    titleSub: "Mobile Developer (Contract)",
     description:
-      "Built two high-rated iOS and Android apps in React Native, supporting core company workflows, and developed Rencoin and Globaledge, a crypto investment platform. Integrated Supabase for scalable and secure data and authentication services across the apps while implementing technical designs, wireframes, and user stories within tight deadlines. Wrote unit and integration tests to maintain 95% code coverage and participated in architecture reviews, sprints, and code quality audits to ensure robust development practices.",
-  },
-  {
-    id: 6,
-    title: "Concise Software, US (Remote) December 2022 - May 2023",
-    titleSub: "Frontend Developer (Contract)",
-    description:
-      "Developed an intuitive, scalable document management portal for Durham Public Schools using React, Redux Toolkit, and React Query. Built 35 downloadable and printable documents/forms with auto-populated fields, significantly improving efficiency. Implemented React Print and Quill rich-text editing to deliver a superior user experience and designed a user-friendly interface optimized for the web, achieving 95% satisfaction ratings. Integrated APIs and Redux Query for seamless data population across documents and led the planning and execution of new feature rollouts within tight timelines. Contributed to retrospectives and documentation to streamline developer workflows, ensuring consistent and efficient development processes.",
+      "Built the user application in React Native with Redux for state management and Socket.IO for real-time interaction. Established a component library and styling system that measurably improved development speed and consistency. Led planning and execution of new features against tight deadlines, worked closely with UX/UI designers to iterate on user feedback, and optimised performance across a wide range of devices.",
   },
 ];
 
