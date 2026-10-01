@@ -43,12 +43,12 @@ const historys = [
 ];
 
 const techStack = [
-  { name: "React", years: "4+ years" },
-  { name: "React Native (Android & iOS)", years: "3+ years" },
-  { name: "TypeScript", years: "3+ years" },
-  { name: "Kotlin", years: "2+ years" },
+  { name: "React", years: "6+ years" },
+  { name: "React Native (Android & iOS)", years: "6+ years" },
+  { name: "TypeScript", years: "5+ years" },
+  { name: "Kotlin", years: "3+ years" },
+  { name: "Swift", years: "2+ years" },
   { name: "Android (Jetpack Compose)", years: "1+ years" },
-
 ];
 const About = () => {
   return (
